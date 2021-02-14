@@ -145,6 +145,7 @@ Marlin/*/readme.txt
 Marlin/*/*/readme.txt
 Marlin/*/*/*/readme.txt
 Marlin/*/*/*/*/readme.txt
+core
 
 # Secure Credentials
 Configuration_Secure.h
